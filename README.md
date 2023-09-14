@@ -1,7 +1,7 @@
 
 Hi , I am Aditya Narayan.
 
-I am Pursuing Btech in CSE from Kamka Nehru institute of Tech.
+I am Pursuing Btech in CSE from Kamla Nehru institute of Tech.
 
 
 
