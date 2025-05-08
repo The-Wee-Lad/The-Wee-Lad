@@ -11,58 +11,31 @@ Currently Working on backend projects with scalable architecture.
 
 ## 🛠️ Tech Stack
 
-**💻 Backend:**
+**💻 Backend:** Node.js, Express.js, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM
 
-- Node.js, Express.js, Typescript, NestJs
-- MongoDB, MySQL, PostgreSql
-- Mongoose ODM, Prisma ORM
+**🌐 Frontend:** HTML, CSS, JavaScript, React.js, Redux, React Router, Tailwind CSS
 
-**🌐 Frontend:**
-
-- HTML, CSS, JavaScript
-- React.js, Redux, Tailwind CSS
-
-**🔧 Developer Tools:**
-
-- Git & GitHub
-- VS Code, Postman
-
-**🗣️ Soft Skills:**
-
-- Self-learning
-- Team Collaboration
-- Effective Communication & Presentation
+**🔧 Developer Tools:** Git & GitHub, VS Code, Postman
 
 ## Skills
 
-### Backend Development
+### 🛠️ Backend Development
 
-- RESTful API
-- Express.js
-- Node.js
-- JavaScript
-- TypeScript
-- MongoDB
-- Mongoose
-- MySQL
-- PostgreSQL
-- Prisma ORM
-- Authentication:
-  - OAuth2
-  - Basic Auth
-  - JWT Tokens
-  - Sessions
-  - CSRF Tokens
-    <br>
-    <br>
+**Languages & Runtime**  
+Node.js &nbsp;&nbsp;•&nbsp;&nbsp; JavaScript &nbsp;&nbsp;•&nbsp;&nbsp; TypeScript  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-wee-lad&layout=compact&theme=radical&langs_count=10&text_size=30)
+**Frameworks & APIs**  
+Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTful API  
 
----
+**Databases & ORM**  
+MongoDB &nbsp;&nbsp;•&nbsp;&nbsp; Mongoose &nbsp;&nbsp;•&nbsp;&nbsp; MySQL  
+PostgreSQL &nbsp;&nbsp;•&nbsp;&nbsp; Prisma ORM  
 
-## 📈 GitHub Stats
+**Authentication & Security**  
+OAuth2 &nbsp;&nbsp;•&nbsp;&nbsp; JWT Tokens &nbsp;&nbsp;•&nbsp;&nbsp; Sessions  
+Basic Auth &nbsp;&nbsp;•&nbsp;&nbsp; CSRF Tokens &nbsp;&nbsp;•&nbsp;&nbsp; NodeMailer
 
-![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-wee-lad&show_icons=true&theme=radical)
+![the-wee-lad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-wee-lad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
