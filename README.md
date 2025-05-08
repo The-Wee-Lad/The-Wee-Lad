@@ -1,7 +1,5 @@
 # Hi there, I'm Aditya Narayan! 👋
 
-## 🚀 About Me
-
 I'm a **pre-final year Computer Science Engineering** student at **Kamla Nehru Institute of Technology (KNIT), Sultanpur**.  
 I have a deep passion for **web development, programming, and leveraging technology to solve real-world challenges**.  
 My expertise lies in the **MERN stack**, and I have hands-on experience in developing **full-stack applications**.<br>
