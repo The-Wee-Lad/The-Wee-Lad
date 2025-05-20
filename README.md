@@ -23,7 +23,7 @@ Currently Working on backend projects with scalable architecture.
 Node.js &nbsp;&nbsp;•&nbsp;&nbsp; JavaScript &nbsp;&nbsp;•&nbsp;&nbsp; TypeScript  
 
 **Frameworks & APIs**  
-Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTful API  
+NestJS &nbsp;&nbsp;•&nbsp;&nbsp; Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTful API  
 
 **Databases & ORM**  
 MongoDB &nbsp;&nbsp;•&nbsp;&nbsp; Mongoose &nbsp;&nbsp;•&nbsp;&nbsp; MySQL  
