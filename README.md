@@ -27,7 +27,7 @@ NestJS &nbsp;&nbsp;•&nbsp;&nbsp; Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTfu
 
 **Databases & ORM**  
 MongoDB &nbsp;&nbsp;•&nbsp;&nbsp; Mongoose &nbsp;&nbsp;•&nbsp;&nbsp; MySQL  
-PostgreSQL &nbsp;&nbsp;•&nbsp;&nbsp; Prisma ORM  
+PostgreSQL &nbsp;&nbsp;•&nbsp;&nbsp; Prisma ORM &nbsp;&nbsp;•&nbsp;&nbsp; TypeORM
 
 **Authentication & Security**  
 OAuth2 &nbsp;&nbsp;•&nbsp;&nbsp; JWT Tokens &nbsp;&nbsp;•&nbsp;&nbsp; Sessions  
