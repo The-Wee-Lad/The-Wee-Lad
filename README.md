@@ -9,7 +9,7 @@ Currently Working on backend projects with scalable architecture.
 
 ## 🛠️ Tech Stack
 
-**💻 Backend:** Node.js, Express.js, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM
+**💻 Backend:** Node.js, Express.js, NestJS, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM
 
 **🌐 Frontend:** HTML, CSS, JavaScript, React.js, Redux, React Router, Tailwind CSS
 
