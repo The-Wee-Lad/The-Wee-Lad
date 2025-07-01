@@ -1,9 +1,12 @@
 # Hi there, I'm Aditya Narayan! 👋
 
-I'm a **pre-final year Computer Science Engineering** student at **Kamla Nehru Institute of Technology (KNIT), Sultanpur**.  
-I have a deep passion for **web development, programming, and leveraging technology to solve real-world challenges**.  
-My expertise lies in the **MERN stack**, and I have hands-on experience in developing **full-stack applications**.<br>
-Currently Working on backend projects with scalable architecture.
+I’m a pre-final year Computer Science Engineering student at Kamla Nehru Institute of Technology (KNIT), Sultanpur, with a strong interest in backend engineering and building scalable, production-grade systems.
+
+With a passion for web development, programming, and using technology to tackle real-world challenges, I specialize in backend development using Node.js, with solid expertise in both Express.js and NestJS frameworks.
+
+I work extensively with the MERN stack, but my primary focus is on backend architecture — designing and developing RESTful APIs, implementing authentication & authorization, managing databases (MongoDB & SQL), and deploying cloud-ready applications.
+
+Currently, I'm working on backend-heavy projects that emphasize modular design, clean code practices, and performance optimization.
 
 ---
 
