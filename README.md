@@ -14,7 +14,9 @@ Currently, I'm working on backend-heavy projects that emphasize modular design, 
 
 **💻 Backend:** Node.js, Express.js, NestJS, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM
 
-**🌐 Frontend:** HTML, CSS, JavaScript, React.js, Redux, React Router, Tailwind CSS
+**🌐 Frontend:** HTML, CSS, JavaScript, React.js, Redux, React Router, RTK-Query,  Tailwind CSS
+
+**🔧 Deployement:** Render, AWS EC2, ECR, Github action, Docker, 
 
 **🔧 Developer Tools:** Git & GitHub, VS Code, Postman
 
@@ -39,23 +41,6 @@ Basic Auth &nbsp;&nbsp;•&nbsp;&nbsp; CSRF Tokens &nbsp;&nbsp;•&nbsp;&nbsp; N
 ![the-wee-lad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-wee-lad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
-
-<!--
-## 🛠️ Featured Projects
-
-🚀 **Sandesh: A Chat Website**
-- A beautifully designed **frontend chat application**
-- Features **User & Admin roles, real-time charts & graphs**
-
-🌟 **Portfolio Website**
-- A **personal portfolio** built with React
-- Incorporates **Three.js & Framer Motion** for stunning animations
-
-🛍️ **Shopping Website**
-- A **e-commerce platform, product data coming from an API**
-- Utilizes **Redux for state management & Tailwind CSS for styling**
-
---- -->
 
 ## 🌱 Currently Exploring
 
