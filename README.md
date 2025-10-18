@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Narayan! 👋
 
-I’m a pre-final year Computer Science Engineering student at Kamla Nehru Institute of Technology (KNIT), Sultanpur, with a strong interest in backend engineering and building scalable, production-grade systems.
+I’m a final year Computer Science Engineering student at Kamla Nehru Institute of Technology (KNIT), Sultanpur, with a strong interest in backend engineering and building scalable, production-grade systems.
 
 With a passion for web development, programming, and using technology to tackle real-world challenges, I specialize in backend development using Node.js, with solid expertise in both Express.js and NestJS frameworks.
 
