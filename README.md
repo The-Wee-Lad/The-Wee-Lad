@@ -12,11 +12,11 @@ Currently, I'm working on backend-heavy projects that emphasize modular design, 
 
 ## 🛠️ Tech Stack
 
-**💻 Backend:** Node.js, Express.js, NestJS, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM
+**💻 Backend:** Node.js, Express.js, NestJS, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM, Redis
 
 **🌐 Frontend:** HTML, CSS, JavaScript, React.js, Redux, React Router, RTK-Query,  Tailwind CSS
 
-**🔧 Deployement:** Render, AWS EC2, ECR, Github action, Docker, 
+**🔧 Deployement:** AWS EC2, ECR, Github action, Docker, Cloudflare Pages R2, Render, 
 
 **🔧 Developer Tools:** Git & GitHub, VS Code, Postman
 
@@ -28,11 +28,16 @@ Currently, I'm working on backend-heavy projects that emphasize modular design, 
 Node.js &nbsp;&nbsp;•&nbsp;&nbsp; JavaScript &nbsp;&nbsp;•&nbsp;&nbsp; TypeScript  
 
 **Frameworks & APIs**  
-NestJS &nbsp;&nbsp;•&nbsp;&nbsp; Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTful API  
+NestJS &nbsp;&nbsp;•&nbsp;&nbsp; Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTful API 
+GraphQL &nbsp;&nbsp;•&nbsp;&nbsp; 
 
 **Databases & ORM**  
 MongoDB &nbsp;&nbsp;•&nbsp;&nbsp; Mongoose &nbsp;&nbsp;•&nbsp;&nbsp; MySQL  
 PostgreSQL &nbsp;&nbsp;•&nbsp;&nbsp; Prisma ORM &nbsp;&nbsp;•&nbsp;&nbsp; TypeORM
+
+**Deployment**  
+AWS EC2 &nbsp;&nbsp;•&nbsp;&nbsp; ECR &nbsp;&nbsp;•&nbsp;&nbsp; GitHub Actions  
+Docker &nbsp;&nbsp;•&nbsp;&nbsp;Docker Compose &nbsp;&nbsp;•&nbsp;&nbsp; Cloudflare pages
 
 **Authentication & Security**  
 OAuth2 &nbsp;&nbsp;•&nbsp;&nbsp; JWT Tokens &nbsp;&nbsp;•&nbsp;&nbsp; Sessions  
