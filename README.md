@@ -12,7 +12,7 @@ Currently, I'm working on backend-heavy projects that emphasize modular design, 
 
 ## 🛠️ Tech Stack
 
-**💻 Backend:** Node.js, Express.js, NestJS, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM, Redis
+**💻 Backend:** GoLang, Node.js, Express.js, NestJS, Typescript, MongoDB, MySQL, PostgreSql, Mongoose ODM, Prisma ORM, Redis
 
 **🌐 Frontend:** HTML, CSS, JavaScript, React.js, Redux, React Router, RTK-Query,  Tailwind CSS
 
