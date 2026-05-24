@@ -25,7 +25,7 @@ Currently, I'm working on backend-heavy projects that emphasize modular design, 
 ### 🛠️ Backend Development
 
 **Languages & Runtime**  
-Node.js &nbsp;&nbsp;•&nbsp;&nbsp; JavaScript &nbsp;&nbsp;•&nbsp;&nbsp; TypeScript  
+GOlang &nbsp;&nbsp;•&nbsp;&nbsp; Node.js &nbsp;&nbsp;•&nbsp;&nbsp; JavaScript &nbsp;&nbsp;•&nbsp;&nbsp; TypeScript  
 
 **Frameworks & APIs**  
 NestJS &nbsp;&nbsp;•&nbsp;&nbsp; Express.js &nbsp;&nbsp;•&nbsp;&nbsp; RESTful API 
