@@ -46,8 +46,6 @@ OAuth2 &nbsp;&nbsp;•&nbsp;&nbsp; JWT Tokens &nbsp;&nbsp;•&nbsp;&nbsp; Sessio
 Basic Auth &nbsp;&nbsp;•&nbsp;&nbsp; CSRF Tokens  
 AWS SES &nbsp;&nbsp;•&nbsp;&nbsp; NodeMailer  
 
-![the-wee-lad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-wee-lad&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ---
 
 ## 🌱 Currently Exploring
